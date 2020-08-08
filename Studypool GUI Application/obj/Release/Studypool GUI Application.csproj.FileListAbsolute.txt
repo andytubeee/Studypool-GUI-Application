@@ -1,0 +1,10 @@
+D:\Projects\Studypool GUI Application\GUIForm\Studypool GUI Application\bin\Release\Studypool GUI Application.exe.config
+D:\Projects\Studypool GUI Application\GUIForm\Studypool GUI Application\bin\Release\Studypool GUI Application.exe
+D:\Projects\Studypool GUI Application\GUIForm\Studypool GUI Application\bin\Release\Studypool GUI Application.pdb
+D:\Projects\Studypool GUI Application\GUIForm\Studypool GUI Application\obj\Release\Studypool_GUI_Application.Form1.resources
+D:\Projects\Studypool GUI Application\GUIForm\Studypool GUI Application\obj\Release\Studypool_GUI_Application.Properties.Resources.resources
+D:\Projects\Studypool GUI Application\GUIForm\Studypool GUI Application\obj\Release\Studypool GUI Application.csproj.GenerateResource.cache
+D:\Projects\Studypool GUI Application\GUIForm\Studypool GUI Application\obj\Release\Studypool GUI Application.csproj.CoreCompileInputs.cache
+D:\Projects\Studypool GUI Application\GUIForm\Studypool GUI Application\obj\Release\Studypool GUI Application.exe
+D:\Projects\Studypool GUI Application\GUIForm\Studypool GUI Application\obj\Release\Studypool GUI Application.pdb
+D:\Projects\Studypool GUI Application\GUIForm\Studypool GUI Application\obj\Release\Studypool GUI Application.csprojAssemblyReference.cache
